@@ -1,0 +1,27 @@
+# Keil build outputs
+MDK/Objects/
+MDK/Listings/
+MDK/output/
+*.o
+*.obj
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+*.dep
+*.crf
+*.lnp
+*.build_log.htm
+
+# Keil per-user workspace state
+*.uvguix.*
+*.uvgui.*
+
+# Editor and OS temporary files
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
